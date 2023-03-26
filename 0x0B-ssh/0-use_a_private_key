@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script uses ssh to connect to a server using private key
+
+ssh -i ~/.ssh/school windows@197.211.59.127
