@@ -22,4 +22,4 @@ from datadog_api_client import ApiClient, Configuration
 - Command to showcase the dashboard_id:
 ```
 DD_SITE="datadoghq.com" DD_API_KEY="<DD_API_KEY>" DD_APP_KEY="<DD_APP_KEY>" python3 "example.py"
-```
+..```
